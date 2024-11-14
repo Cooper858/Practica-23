@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\bin\Debug\net6.0-windows\Practica #23 vsed.exe
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\bin\Debug\net6.0-windows\Practica #23 vsed.deps.json
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\bin\Debug\net6.0-windows\Practica #23 vsed.runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\bin\Debug\net6.0-windows\Practica #23 vsed.dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\bin\Debug\net6.0-windows\Practica #23 vsed.pdb
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica__23_vsed.Form1.resources
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\refint\Practica #23 vsed.dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.pdb
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\Practica #23 vsed.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica #23 vsed\obj\Debug\net6.0-windows\ref\Practica #23 vsed.dll
